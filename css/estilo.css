@@ -1,0 +1,68 @@
+.container{
+    display: flex;
+    flex-direction:column;
+    background-color:#000000; 
+    color:#FFFFFF;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+        
+}
+
+.logo{
+
+}
+
+.menu{
+
+}
+
+.main{
+
+}
+
+.secao1{
+
+}
+
+.text1{
+
+}
+
+.secao2{
+
+}
+
+.text2{
+
+}
+
+.secao3{
+
+}
+
+.text3{
+
+}
+
+.footer{
+
+}
+
+.boxmae{
+
+}
+
+.line{
+
+}
+
+.boxpai{
+
+}
+
+.boxfilho{
+
+}
